@@ -1,5 +1,7 @@
 <?php
+
 namespace Validators_pack;
+
 use Validators_pack\Src\Validator;
 
 
