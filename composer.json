@@ -18,7 +18,7 @@
         "ValidatorsPack\\": "src/"
       },
       "files": [
-        "src/helper.php"
+        "src/interface.php"
       ]
     }
    }
