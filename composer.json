@@ -15,7 +15,7 @@
     },
     "autoload": {
       "psr-4": {
-        "ValidatorsPack\\": ""
+        "Validators_pack\\": ""
       },
       "files": [
         "interface.php"
