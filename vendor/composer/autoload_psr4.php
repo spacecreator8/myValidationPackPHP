@@ -6,4 +6,7 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Validators_pack\\Validators' => array($baseDir . '/validators'),
+    'Validators_pack\\Src' => array($baseDir . '/src'),
+    'Validators_pack\\' => array($baseDir . '/'),
 );
