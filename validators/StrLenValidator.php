@@ -1,8 +1,9 @@
 <?php
 
-namespace Validators;
+namespace Validators_pack\Validators;
 
-use Src\Validator\AbstractValidator;
+// use Src\Validator\AbstractValidator;
+use Validators_pack\Src\AbstractValidator;
 
 class StrLenValidator extends AbstractValidator
 {

@@ -1,6 +1,7 @@
 <?php
 
-namespace Src\Validator;
+// namespace Src\Validator;
+namespace Validators_pack\Src;
 
 abstract class AbstractValidator
 {

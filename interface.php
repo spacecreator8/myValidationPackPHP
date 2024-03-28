@@ -1,6 +1,6 @@
 <?php
-namespace Validator;
-use Src\Validator\Validator;
+namespace Validators_pack;
+use Validators_pack\Src\Validator;
 
 
 function validation($fields, $rules, $messages , $pathToPermitted): Validator
